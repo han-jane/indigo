@@ -1,9 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Person who travels the world eating noodles
+name: Jane Han
+bio: PhD student in Haxby lab at Dartmouth College, advised by Professo James V. Haxby. 
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog about brain and 'what makes us a better human?' related
 
 # if it's an external image, update below for true
 # better with square images
@@ -11,15 +11,15 @@ external-image: false
 picture: assets/images/profile.jpg
 
 # your site color theme, false to light theme
-dark-theme: true
+dark-theme: false
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://han-jane.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/

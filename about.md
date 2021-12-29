@@ -8,11 +8,11 @@ layout: page
 
 <p>I earned my B.A. in Psychology and English Literature and M.E. in Biomedical Engineering at Sungkyunkwan University . At Sungkyunkwan University, I investigated how the brain representation of visual perception is affected by top-down cognition, specifically interpretation of the scene, advised by Professor Won Mok Shim.</p>
 
-<h2>Skills</h2>
+<h2>Contact</h2>
 
 <ul class="skill-list">
-	<li>Matlab</li>
-	<li>Python</li>
+	<li>Email: jane [dot] han [dot] gr [at] dartmouth [dot] edu </li>
+	<li>Twitter: _jane_han_ </li>
 </ul>
 
 <h2>Projects</h2>

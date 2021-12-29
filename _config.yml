@@ -42,11 +42,11 @@ email: myemail@gmail.com
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Jane Han
+    bio: PhD Student in Dartmouth College 
     external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
+    picture: assets/images/profile.jpeg
+    twitter: _jane_han_
   jamesfoster:
     name: James Foster
     bio: A Man who develops software with coffee
